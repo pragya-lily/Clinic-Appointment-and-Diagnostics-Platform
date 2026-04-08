@@ -164,7 +164,7 @@ The ER diagram is designed to answer key operational questions:
 
 ##  ER Diagram
 
-![Clinic ER Diagram](./an_entity_relationship_er_diagram_for_a_clinic_m.png)
+![Clinic ER Diagram](https://github.com/pragya-lily/Clinic-Appointment-and-Diagnostics-Platform/blob/main/Clinic%20ER%20Diagram.pdf)
 
 ---
 
